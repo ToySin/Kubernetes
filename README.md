@@ -1,1 +1,9 @@
-<img width="4158" height="2625" alt="image" src="https://github.com/user-attachments/assets/709280f7-47c6-4773-8a49-ddd0b2af8715" />
+# Kubernetes On-Prem Study
+📌 Final Goal
+
+Build an on-premise Kubernetes cluster with the following setup:
+- Control Plane Nodes: 3
+- Worker Nodes: 2
+- Database Nodes: 2 (separate from etcd)
+
+I will also use Ansible and Terraform for automation and easy deployment.
